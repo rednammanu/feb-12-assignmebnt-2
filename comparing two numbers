@@ -1,0 +1,10 @@
+ed = int(input('enter ed value: '))
+kk = int(input('enter kk value: '))
+if ed == kk:
+    print('equal')
+if ed != kk:
+    print('not equal')
+if ed < kk:
+    print('ed < kk')
+if ed > kk:
+    print('ed > kk')
